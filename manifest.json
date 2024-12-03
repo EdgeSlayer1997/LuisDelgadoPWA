@@ -2,7 +2,7 @@
     "name": "Luis Delgado Portafolio",
     "short_name": "Portafolio",
     "description": "Portafolio profesional de Luis Salvador Delgado Romo, desarrollador de software.",
-    "start_url": "./index.html",
+    "start_url": "/LuisDelgadoPWA/index.html",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#6a1b9a",
